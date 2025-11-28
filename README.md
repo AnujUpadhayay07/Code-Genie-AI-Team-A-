@@ -1,4 +1,4 @@
-# 🚀 DebAI
+# 💬 DebAI
 
 <!-- Tech stack badges (styled like buttons) -->
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io) [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge)](https://ollama.ai) [![Tesseract](https://img.shields.io/badge/Tesseract-%23007ACC.svg?style=for-the-badge)](https://github.com/tesseract-ocr/tesseract) [![Pillow](https://img.shields.io/badge/Pillow-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white)](https://python-pillow.org) [![pdfplumber](https://img.shields.io/badge/pdfplumber-%23007ACC.svg?style=for-the-badge)](https://github.com/jsvine/pdfplumber)
